@@ -29,7 +29,7 @@ assert(ptr3->empty());
 
 ## queue
 
-FIFO `queue` implementation based on a template linked list. 
+FIFO `queue` implementation based on a custom template linked list. 
 
 Example of usage: 
 ```
